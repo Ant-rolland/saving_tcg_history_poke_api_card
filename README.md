@@ -57,7 +57,7 @@ The generated card data will be written to:
 
 This repository is maintained primarily for historical and compatibility purposes.
 
-## Migrating to Scrydex
+## Migrating to new site coming
 
-If you currently use Pokémon TCG Data or the Pokémon TCG API in an application, please migrate tonewsite poke to update before the Pokémon TCG API shutdown on **March 1, 2027**.
+If you currently use Pokémon TCG Data or the Pokémon TCG API in an application, please migrate to name site poke to update before the Pokémon TCG API shutdown on **March 1, 2027**.
 
